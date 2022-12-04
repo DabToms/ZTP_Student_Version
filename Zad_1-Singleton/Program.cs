@@ -1,9 +1,9 @@
-﻿namespace Zad_1_Singleton;
+﻿namespace Singleton;
 
 internal class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("What's Ligma?");
     }
 }
